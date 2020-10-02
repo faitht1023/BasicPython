@@ -1,10 +1,15 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 30 20:02:47 2019
+#me attempting to do something
+#I ain't gassy
 
-@author: Faith Tan
 """
+def userInputTest():
 
+    userInput = input("Enter something here: ")
+
+    print("This is what you entered: " + userInput)
+    
+userInputTest()    
+"""
 def petrolCalculator():
     
     #getting information about the situation from the user
@@ -20,7 +25,7 @@ def petrolCalculator():
     kmLeft = litresLeft * kmLitre
     
     #telling the user how much they can drive before empty
-    print("You can drive for another ", kmLeft, " km.")
+    print("You can drive for another " + kmLeft + " km.")
     
     
     if(kmLeft <= distance):
@@ -35,5 +40,5 @@ def petrolCalculator():
 def main():
 	petrolCalculator()
 
-if __name__ == '__main__':
+if _name_ == '_main_':
     main()
