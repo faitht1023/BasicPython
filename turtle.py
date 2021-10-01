@@ -11,9 +11,8 @@ def turtle_movements():
 	while True:
 		bob.forward(200)
 		bob.left(170)
-	
-		
-		
+		bob.forward(50)
+		bob.right(100)
 
 	bob.end_fill()
 	bob.done()
