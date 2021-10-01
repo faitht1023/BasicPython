@@ -13,7 +13,6 @@ def turtle_movements():
 		bob.left(150)
 		bob.forward(20)
 		bob.right(100)
-		
 
 	bob.end_fill()
 	bob.done()
