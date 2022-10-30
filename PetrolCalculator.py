@@ -1,5 +1,5 @@
-#me attempting to do something
-#I ain't gassy
+# Calculates how much petrol you need
+# Created by Faith, 2019
 
 """
 def userInputTest():
