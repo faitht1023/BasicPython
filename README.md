@@ -1,4 +1,7 @@
 # BasicPython
+
+### Welcome to this repository!
+
 a myriad of basic programs in python, just for practice
 
 feel free to contribute by adding your own python files or editing exising code!
